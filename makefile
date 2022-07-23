@@ -1,0 +1,3 @@
+
+SingletonTest:
+    php artisan test
